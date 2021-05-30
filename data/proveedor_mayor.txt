@@ -1,0 +1,3 @@
+0394888389001;Carlos Samaiego;San Carlos;0943847388;csamaniegop@unemi.edu.ec;Visa
+0948548725001;Camila Vera;Jujan;0925455578;cveray@unemi.edu.ec;Master Card
+001;Mario Santana Mora;Duran;0998776787;msantanam@unemi.edu.ec;Visa
